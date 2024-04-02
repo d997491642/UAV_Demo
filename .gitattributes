@@ -1,2 +1,18 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+ProjectSettings filter=lfs diff=lfs merge=lfs -text
+ignore.conf filter=lfs diff=lfs merge=lfs -text
+Library filter=lfs diff=lfs merge=lfs -text
+Rewired_Windows_Functions.csproj filter=lfs diff=lfs merge=lfs -text
+Varjo.XR.csproj filter=lfs diff=lfs merge=lfs -text
+Assembly-CSharp-Editor.csproj filter=lfs diff=lfs merge=lfs -text
+Demo_23_4_26.sln filter=lfs diff=lfs merge=lfs -text
+RewiredBackup filter=lfs diff=lfs merge=lfs -text
+UserSettings filter=lfs diff=lfs merge=lfs -text
+obj filter=lfs diff=lfs merge=lfs -text
+12.txt filter=lfs diff=lfs merge=lfs -text
+Assembly-CSharp.csproj filter=lfs diff=lfs merge=lfs -text
+Assets filter=lfs diff=lfs merge=lfs -text
+Logs filter=lfs diff=lfs merge=lfs -text
+Packages filter=lfs diff=lfs merge=lfs -text
+Varjo.XR.Editor.csproj filter=lfs diff=lfs merge=lfs -text
